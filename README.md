@@ -6,9 +6,9 @@ To Showcase my Porject in your Youtube Videos, Give download link in the descrip
 SkyBlock Horizon uses a Datapack made by Gamerz_Riot. You can edit it and use personally but you're not allowed to reupload it.
 
 # Features
-“*”The look of old Islands are changed.
-“*”All Structures & Islands are in a radius of 1000 blocks.
-“*”Added recipes, loot tables, custom bartring.
-“*”This SkyBlock Map have NPC's.
-“*”Overworld and Nether both have Floating Islands.
-“*”This Map have Custom Advancements.
+* The look of old Islands are changed.
+* All Structures & Islands are in a radius of 1000 blocks.
+* Added recipes, loot tables, custom bartring.
+* This SkyBlock Map have NPC's.
+* Overworld and Nether both have Floating Islands.
+* This Map have Custom Advancements.
