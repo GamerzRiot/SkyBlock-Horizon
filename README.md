@@ -2,8 +2,8 @@
 Skyblock is the most famous map in Minecraft. This Map is Modified versions of OneBlock 3 and SkyBlock 4[Dr. Trog].
 
 # Important
-To Showcase my Porject in your Youtube Videos, Give download link in the description.
-SkyBlock Horizon uses a Datapack made by Gamerz_Riot. You can edit it and use personally but you're not allowed to reupload it.
+* To Showcase my Porject in your Youtube Videos, Give download link in the description.
+* SkyBlock Horizon uses a Datapack made by Gamerz_Riot. You can edit it and use personally but you're not allowed to reupload it.
 
 # Features
 * The look of old Islands are changed.
